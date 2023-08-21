@@ -5,4 +5,5 @@ import "fmt"
 func main() {
 	fmt.Println("hello world")
 	fmt.Println("fitur register disini")
+	fmt.Println("fitur aimar")
 }
